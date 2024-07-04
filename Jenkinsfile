@@ -9,7 +9,7 @@ pipeline {
     }
 
     environment{
-        registry = 'quandvrobusto/house-price-prediction-api'
+        registry = 'truongnn2002/jenkins-test'
         registryCredential = 'dockerhub'      
     }
 
